@@ -26,7 +26,13 @@ Feel free to contact me, I'll be happy to help you if I can 😊.
 </div>
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vinay-sh87&show_icons=true&theme=great-gatsby)](https://github.com/vinay-sh87?tab=repositories)
+![vinay-sh87's Stats](https://github-readme-stats.vercel.app/api?username=vinay-sh87&theme=dark&show_icons=true&hide_border=false&count_private=true)<br><br>
+![vinay-sh87's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-sh87&theme=dark&show_icons=true&hide_border=false&layout=compact)<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-sh87&theme=dark&hide_border=false)<br/>
+
 
 
 - 🌱 I’m currently learning **Javascript** and **Data Structures and Algorithms**.
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
