@@ -1,40 +1,108 @@
-<img src="https://cdn.pixabay.com/photo/2022/04/01/09/08/particles-7104407_1280.jpg" height="200" width="1000">
-
-### Hi there 👋
-
-My name is Vinay Sharma and I am a Frontend Developer and Coding Enthusiast 🧑‍💻. 
-
-Enthusiastic developer dedicated to turning ideas into functional software. Driven by curiosity and a love for continuous learning in the world of technology.
-
-Feel free to contact me, I'll be happy to help you if I can 😊.
-
-[![](https://komarev.com/ghpvc/?username=vinay-sh87&color=000000)](https://github.com/vinay-sh87?tab=repositories)
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:vinaysharma87.dev@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vinay-sharma45/)
-
+# Hey, I am Vinay Sharma 👋
 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
- 	<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/></code>
-	
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)
+  
 </div>
-<br>
 
-![vinay-sh87's Stats](https://github-readme-stats.vercel.app/api?username=vinay-sh87&theme=dark&show_icons=true&hide_border=false&count_private=true)<br><br>
-![vinay-sh87's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-sh87&theme=dark&show_icons=true&hide_border=false&layout=compact)<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-sh87&theme=dark&hide_border=false)<br/>
+## 🚀 About Me
+
+Self-taught developer on a mission to build impactful projects. I love experimenting with new technologies, contributing to open source, and connecting with the dev community. Let's turn ideas into reality! 💡
+
+- 🌱 I'm currently learning **Java**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React etc.**
+- 📫 How to reach me: **com.vinay45@gmail.com**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" height="60"/>
+</a>
+<a href="https://en.cppreference.com/w/c" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
+</a>
+<a href="https://cplusplus.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+</a>
+</div>
 
 
+## 📊 GitHub Stats
 
-- 🌱 I’m currently learning **Javascript** and **Data Structures and Algorithms**.
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay-sh87&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-sh87&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinay-sh87&theme=radical&hide_border=true)
+  
+</div>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=vinay-sh87&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  
+</div>
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinay-sh87&theme=react-dark&hide_border=true&area=true)
+
+## 🔗 Connect with Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinay-sharma45)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:com.vinay45@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=vinay-sh87&color=blueviolet&style=flat-square)
+  
+  ### Show some ❤️ by starring some of the repositories!
+  
+</div>
