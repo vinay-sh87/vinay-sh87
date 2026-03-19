@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Always+Learning+New+Things)
   
 </div>
 
@@ -10,9 +10,9 @@
 
 Self-taught developer on a mission to build impactful projects. I love experimenting with new technologies, contributing to open source, and connecting with the dev community. Let's turn ideas into reality! 💡
 
-- 🌱 I'm currently learning **Java**
+- 🌱 I'm currently learning **Backend**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React etc.**
+- 💬 Ask me about **JavaScript, React, Java, Spring boot etc.**
 - 📫 How to reach me: **com.vinay45@gmail.com**
 
 ## 🛠️ Tech Stack
