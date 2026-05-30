@@ -88,7 +88,39 @@ Self-taught developer on a mission to build impactful projects. I love experimen
          alt="Tailwind CSS" width="60" height="60"/>
   </a>
 
-  <!-- ── Tier 6 · Languages ─────────────────────────────────────────── -->
+  <!-- ── Tier 6 · Markup & Styling ─────────────────────────────────── -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         alt="HTML5" width="60" height="60"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         alt="CSS3" width="60" height="60"/>
+  </a>
+
+  <!-- ── Tier 7 · Dev Tools ─────────────────────────────────────────── -->
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+         alt="npm" width="60" height="60"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+         alt="IntelliJ IDEA" width="60" height="60"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+         alt="VS Code" width="60" height="60"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         alt="Git" width="60" height="60"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         alt="GitHub" width="60" height="60"/>
+  </a>
+
+  <!-- ── Tier 8 · Languages ─────────────────────────────────────────── -->
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
          alt="TypeScript" width="60" height="60"/>
@@ -114,40 +146,7 @@ Self-taught developer on a mission to build impactful projects. I love experimen
          alt="JavaScript" width="60" height="60"/>
   </a>
 
-  <!-- ── Tier 7 · Markup & Styling ─────────────────────────────────── -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-         alt="HTML5" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-         alt="CSS3" width="60" height="60"/>
-  </a>
-
-  <!-- ── Tier 8 · Dev Tools ─────────────────────────────────────────── -->
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-         alt="npm" width="60" height="60"/>
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-         alt="IntelliJ IDEA" width="60" height="60"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-         alt="VS Code" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-         alt="Git" width="60" height="60"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         alt="GitHub" width="60" height="60"/>
-  </a>
-
 </div>
-
 
 ## 📊 GitHub Stats
 
