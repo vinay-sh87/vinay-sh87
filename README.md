@@ -1,4 +1,4 @@
-# Hey, I'm Vinay Sharma 👋
+# Hey, I'm Vinay Sharma 
 
 <div align="center">
   
