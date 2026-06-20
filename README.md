@@ -14,6 +14,8 @@ Self-taught developer on a mission to build impactful projects. I love experimen
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, Java, Spring boot etc.**
 - 📫 How to reach me: **com.vinay45@gmail.com**
+- 🌐 Portfolio: **https://vinay-sharma-portfolio.vercel.app/**
+- 💼 LinkedIn: **www.linkedin.com/in/vinaysh17**
 
 ## 🛠️ Tech Stack
 <div align="center">
@@ -176,8 +178,8 @@ Self-taught developer on a mission to build impactful projects. I love experimen
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinay-sharma45)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinaysh17)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://vinay-sharma-portfolio.vercel.app/)
   [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:com.vinay45@gmail.com)
   
 </div>
