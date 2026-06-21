@@ -8,7 +8,7 @@
 
 ## About Me
 
-Self-taught developer on a mission to build impactful projects. I love experimenting with new technologies, contributing to open source, and connecting with the dev community. Let's turn ideas into reality! 💡
+Self-taught developer on a mission to build impactful projects. I love experimenting with new technologies, contributing to open source, and connecting with the dev community. Let's turn ideas into reality!
 
 - I'm currently learning **Backend**
 - I'm looking to collaborate on **Open Source Projects**
