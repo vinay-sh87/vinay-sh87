@@ -6,18 +6,18 @@
   
 </div>
 
-## 🚀 About Me
+## About Me
 
 Self-taught developer on a mission to build impactful projects. I love experimenting with new technologies, contributing to open source, and connecting with the dev community. Let's turn ideas into reality! 💡
 
-- 🌱 I'm currently learning **Backend**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Java, Spring boot etc.**
-- 📫 How to reach me: **com.vinay45@gmail.com**
-- 🌐 Portfolio: **https://vinay-sharma-portfolio.vercel.app/**
-- 💼 LinkedIn: **www.linkedin.com/in/vinaysh17**
+- I'm currently learning **Backend**
+- I'm looking to collaborate on **Open Source Projects**
+- Ask me about **JavaScript, React, Java, Spring boot etc.**
+- How to reach me: **com.vinay45@gmail.com**
+- Portfolio: **https://vinay-sharma-portfolio.vercel.app/**
+- LinkedIn: **www.linkedin.com/in/vinaysh17**
 
-## 🛠️ Tech Stack
+## Tech Stack
 <div align="center">
 
   <!-- ── Tier 1 · Distributed Infrastructure ────────────────────────── -->
@@ -150,7 +150,7 @@ Self-taught developer on a mission to build impactful projects. I love experimen
 
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -162,7 +162,7 @@ Self-taught developer on a mission to build impactful projects. I love experimen
   
 </div>
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -170,11 +170,11 @@ Self-taught developer on a mission to build impactful projects. I love experimen
   
 </div>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinay-sh87&theme=react-dark&hide_border=true&area=true)
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <div align="center">
   
